@@ -58,7 +58,8 @@ Proje başarıyla tamamlanmış olup, %81.17 test accuracy ile tatmin edici bir 
 ## Linkler
 ### Kaggle Notebook
 - **Ana Notebook:** [Intel Image Classification - CNN Model](https://www.kaggle.com/code/efsannuralpay/akbankprojesi)
-
+🔗 KAGGLE NOTEBOOK: 
+https://www.kaggle.com/code/efsannuralpay/akbankprojesi
 ### GitHub Repo
 - **Proje Reposu:** [akbank-dl-bootcamp](https://github.com/efsannuralpay/akbank-dl-bootcamp)
 
